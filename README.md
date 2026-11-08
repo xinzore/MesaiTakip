@@ -63,7 +63,7 @@ gradle/     # Gradle wrapper ve version catalog
 
 ## 📦 Hızlı İndirme
 
-- APK: https://github.com/xinzore/BordroTakip/releases/download/423.4.9/BordroTakip.apk
+- APK: https://github.com/xinzore/MesaiTakip/releases/download/423.5.0.v704/mesai-takip.apk
 
 ---
 
