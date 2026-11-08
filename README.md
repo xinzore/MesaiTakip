@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/logo.png" alt="Bordro Takip Logo" width="120" />
-  <h1>Bordro Takip</h1>
+  <h1>Mesai Takip</h1>
   <p>Vardiya, mesai, izin ve maaş tahmini için modern bordro takip uygulaması.</p>
 
   <p>
